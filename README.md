@@ -59,4 +59,3 @@ You can add your own information to be stored into the tables
 If you have trouble setting it up, try:
 1. Make sure MySQL is running
 2. Check for error messages when running the SQL file
-3. Ask your teacher or classmates for help
