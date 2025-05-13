@@ -20,7 +20,7 @@ It helps hospitals keep everything organized in one place!
 ### How to Install:
 1. **Download the files**:
    - `hospitalManagement.sql` (the database script)
-   - `hospital_erd.png` (the diagram)
+   - `MedicalDatabaseERD.drawio.png` (the diagram)
 
 2. **Create the database**:
    - Open MySQL Workbench (or your favorite MySQL tool)
